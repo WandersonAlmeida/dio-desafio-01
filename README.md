@@ -1,3 +1,3 @@
 # dio-desafio-01
 
-Repositorio criado sobre desafio de projetos da dio.
+Repositório criado para desafio de projetos da dio.
